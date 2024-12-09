@@ -9,3 +9,6 @@ Crime incident reports are processed, counted, and stored in a Spatialite databa
 This application is written in Go and utilizes the Orb Geospatial library.
 
 The resultant dataset is displayed below in QGIS. The darker the blue, the more crimes were committed in the precinct.
+
+
+![](screenshot.png)
